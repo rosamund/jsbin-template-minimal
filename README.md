@@ -1,4 +1,3 @@
-jsbin-template-minimal
-======================
+# jsbin-template-minimal
 
-Minimal jsbin template snippet for fast and robust CSS/JS debugging
+Ultra simple, robust, cross-browser, CDN-powered, bootstrap-ready JS Bin HTML5 template.
